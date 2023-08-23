@@ -1,6 +1,6 @@
 # develop-challenge-1
 ## module one challenge
-
+https://tatumsterling.github.io/develop-challenge-1/
 ## Description
 
 The purpose of this reposition was to fix the bugs in both an HTML and CSS sheet. This project is a mock website where us students were given the opportunity to hone in on simple HTML and CSS elements. The main focus of the project was to replace the non-semantic HTML tags to semantic ones in order for the website to be more accessible. 
